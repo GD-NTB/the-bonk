@@ -48,40 +48,50 @@ def uinput():
 
 def place(x, y):
     global pturn
-    if pturn == 1:
-        game[x][y] = 'X'
-        pturn = 2
-    elif pturn == 2:
-        game[x][y] = 'O'
-        pturn = 1
+    if game[x][y] != 'X' and game[x][y] != 'O':
+        if pturn == 1:
+            game[x][y] = 'X'
+            pturn = 2
+        elif pturn == 2:
+            game[x][y] = 'O'
+            pturn = 1
 
 x = [ 0, 0, 0, 0 ]
 o = [ 0, 0, 0, 0 ]
 
 def check():
     global winner
-    for n in range(3):
+    for a in range(3):
         for h in range(3): # Horizontal
             if x[0] == h:
-                if game[h][n] == 'X': x[0] += 1
+                if game[h][a] == 'X': x[0] += 1
             if o[0] == h:
-                if game[h][n] == 'O': o[0] += 1
+                if game[h][a] == 'O': o[0] += 1
+        if x[0] != 3: x[0] = 0
+        if o[0] != 3: o[0] = 0
 
+    for b in range(3):
         for v in range(3): # Vertical
             if x[1] == v:
-                if game[n][v] == 'X': x[1] += 1
-            if o[1] == h:
-                if game[n][v] == 'O': o[1] += 1
+                if game[b][v] == 'X': x[1] += 1
+            if o[1] == b:
+                if game[b][v] == 'O': o[1] += 1
+        if x[1] != 3: x[1] = 0              
+        if o[1] != 3: o[1] = 0
 
-        if x[2] == n: # Left to right diagonal
-            if game[n][n] == 'X': x[2] += 1
-        if o[2] == n:
-            if game[n][n] == 'O': o[2] += 1
+    for c in range(3):  
+        if x[2] == c: # Left to right diagonal
+            if game[c][c] == 'X': x[2] += 1
+        if o[2] == c:
+            if game[c][c] == 'O': o[2] += 1
 
-        if x[3] == n: # Right to left diagonal
-            if game[2-n][n] == 'X': x[3] += 1
-        if o[3] == n:
-            if game[2-n][n] == 'O': o[3] += 1
+
+    for d in range(3):
+        if x[3] == d: # Right to left diagonal
+            if game[2-d][d] == 'X': x[3] += 1
+        if o[3] == d:
+            if game[2-d][d] == 'O': o[3] += 1
+
 
     for i in range(4):
         if x[i] == 3: winner = 1
@@ -90,7 +100,8 @@ def check():
 while True:
     os.system("cls")
     draw()
-
+    print(x)
+    print(o)
     if winner != 0:
         print("\nPlayer {0} wins!".format(winner))
         input("")
