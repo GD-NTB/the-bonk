@@ -29,7 +29,7 @@ def draw():
         print("", sep='')
         if y == 0 or y == 1: print(style.RESET, "---|---|---", sep='')
 
-    print(style.RESET, "\nPlayer " + str(pturn) + "'s turn!")
+    print(style.RESET, "\nPlayer " + str(pturn) + "'s turn!\nControls: w, a, s, d, p, quit")
 
 def uinput():
     global tilex, tiley
