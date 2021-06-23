@@ -4,6 +4,19 @@ the biggest dump of junk
 ## Python
 
 ### June 2021
+- [quadraticnthterm.py](https://github.com/GD-NTB/the-bonk/blob/master/python/golf/quadraticnthterm.py) (Golf - 336 bytes)
+	- Solves a quadratic sequence for the nth term in the form of an²+bn+c.
+	- Added: 23/6/2021
+
+- [quadraticsolver.py](https://github.com/GD-NTB/the-bonk/blob/master/python/golf/quadraticsolver.py) (Golf - 90 bytes)
+	- Solves a quadratic equation in the form ax²+bx+c=0 using the quadratic equation.
+	- Function only.
+	- Added: 23/6/2021
+
+- [guessinggame.py](https://github.com/GD-NTB/the-bonk/blob/master/python/golf/guessinggame.py) (Golf - 137 bytes)
+	- A short guessing game where you have 5 attempts to guess a random number from 1-10.
+	- Added: 23/6/2021
+
 - [palindromecheck.py](https://github.com/GD-NTB/the-bonk/blob/master/python/palindromecheck.py)
 	- Checks if a user's string is a palindrome (a string that is identical to itself when in reverse)
 	- Function only.
