@@ -1,0 +1,1 @@
+def q(a,b,c):from math import sqrt as s;return(-b+s(b*b-4*a*c))/2*a,(-b-s(b*b-4*a*c))/2*a;
