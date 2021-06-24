@@ -100,6 +100,8 @@ def check():
 while True:
     os.system("cls")
     draw()
+    print(x)
+    print(o)
     if winner != 0:
         print("\nPlayer {0} wins!".format(winner))
         input("")

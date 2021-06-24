@@ -13,4 +13,3 @@ for i in range(10):
     asknum(i)
 
 print(sorted(array))
-input("")
