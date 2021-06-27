@@ -1,5 +1,5 @@
 # the-bonk
-the biggest dump of junk
+the biggest dump of junk on the internet
 
 ## Python
 
