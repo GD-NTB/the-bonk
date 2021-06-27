@@ -4,6 +4,10 @@ the biggest dump of junk
 ## Python
 
 ### June 2021
+-[gdprofiles.py](https://github.com/GD-NTB/the-bonk/blob/master/python/gdprofiles.py)
+	- Simple Geometry Dash profile stats using gdbrowser.com's API wrapper.
+	- Added: 27/6/2021
+
 - [coinchange.py](https://github.com/GD-NTB/the-bonk/blob/master/python/coinchange.py)
 	- Solution to a challenge on r/dailyprogramming
 	- Added: 27/6/2021
