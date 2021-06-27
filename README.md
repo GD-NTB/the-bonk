@@ -4,6 +4,10 @@ the biggest dump of junk
 ## Python
 
 ### June 2021
+- [coinchange.py](https://github.com/GD-NTB/the-bonk/blob/master/python/coinchange.py)
+	- Solution to a challenge on r/dailyprogramming
+	- Added: 27/6/2021
+
 - [logicgates.py](https://github.com/GD-NTB/the-bonk/blob/master/python/golf/logicgates.py) (Golf - 260 bytes)
 	- All of the basic logic gates (AND, OR, XOR, NOT, NAND, XNOR)
 	- Added: 25/6/2021
