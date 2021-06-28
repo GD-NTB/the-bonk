@@ -4,6 +4,10 @@ the biggest dump of junk on the internet
 ## Python
 
 ### June 2021
+- [checkered.py](https://github.com/GD-NTB/the-bonk/blob/master/python/golf/checkered.py) (Golf - 88 bytes)
+	- Creates a simple checkerboard pattern.
+	- Added: 28/6/2021
+
 - [gdprofiles.py](https://github.com/GD-NTB/the-bonk/blob/master/python/gdprofiles.py)
 	- Simple Geometry Dash profile stats using gdbrowser.com's API wrapper.
 	- Added: 27/6/2021
