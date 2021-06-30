@@ -5,6 +5,10 @@ the biggest dump of junk on the internet
 
 
 ### June 2021
+- [subprograms.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/subprograms.py) (School)
+	- I have literally no idea what this is actually supposed to do?
+	- Added: 30/6/2021
+
 - [randint.py](https://github.com/GD-NTB/the-bonk/blob/master/python/randint.py)
 	- Prints a random number between 1 and 10 (amazing)
 	- Added: 30/6/2021
