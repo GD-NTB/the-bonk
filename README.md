@@ -5,6 +5,14 @@ the biggest dump of junk on the internet
 
 
 ### June 2021
+- [coolarrayhandling.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/coolarrayhandling.py) (School)
+	- Simple array handling program to allow edits and changes.
+	- Added: 30/6/2021
+
+- [coolstringhandling.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/coolarrayhandling.py) (School)
+	- Prints the ASCII code and uppercase variant of a character.
+	- Added: 30/6/2021
+
 - [nestedselection.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/nestedselection.py) (School)
 	- Simple nested selection program.
 	- Added: 30/6/2021
