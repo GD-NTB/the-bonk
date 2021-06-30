@@ -5,11 +5,11 @@ the biggest dump of junk on the internet
 
 
 ### June 2021
-- [nestedselection.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/nestedselection.py)
+- [nestedselection.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/nestedselection.py) (School)
 	- Simple nested selection program.
 	- Added: 30/6/2021
 
-- [nestediteration.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/nestediteration.py)
+- [nestediteration.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/nestediteration.py) (School)
 	- Simple nested iteration loop.
 	- Added: 30/6/2021
 
