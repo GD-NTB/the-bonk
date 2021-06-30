@@ -5,6 +5,10 @@ the biggest dump of junk on the internet
 
 
 ### June 2021
+- [morsecode.py](https://github.com/GD-NTB/the-bonk/blob/master/python/morsecode.py)
+	- Simple morse code translator.
+	- Added: 30/6/2021
+
 - [morearraysandstuffyeah.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/morearraysandstuffyeah.py) (School)
 	- More arrays and stuff yeah.
 	- Added: 30/6/2021
