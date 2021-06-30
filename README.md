@@ -4,6 +4,18 @@ the biggest dump of junk on the internet
 ## Python
 
 ### June 2021
+- [highorlow.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/highorlow.py)
+	- Tells you if a number is above or below 100.
+	- Added: 30/6/2021
+
+- [enternameloop.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/enternameloop.py)
+	- First simple program in Python (for school)
+	- Added: 30/6/2021
+
+- [colours.py](https://github.com/GD-NTB/the-bonk/blob/master/python/colours.py)
+	- Simple colours in Windows terminal.
+	- Added: 30/6/2021
+
 - [checkered.py](https://github.com/GD-NTB/the-bonk/blob/master/python/golf/checkered.py) (Golf - 88 bytes)
 	- Creates a simple checkerboard pattern.
 	- Added: 28/6/2021
