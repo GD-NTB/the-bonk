@@ -3,13 +3,30 @@ the biggest dump of junk on the internet
 
 ## Python
 
+
 ### June 2021
-- [highorlow.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/highorlow.py)
+- [thenumberseven.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/thenumberseven.py) (School)
+	- For some reason thanks you if your number is less than 7.
+	- Added: 30/6/2021
+
+- [numberguess.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/numberguess.py) (School)
+	- Checks if a colour is red or blue.
+	- Added: 30/6/2021
+
+- [numberadditioncompare.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/numberadditioncompare.py) (School)
+	- Adds two numbers and compares a weird check that I have no idea what its use is.
+	- Added: 30/6/2021
+
+- [numberaddition100.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/numberaddition100.py) (School)
+	- Adds a number to itself until it reaches about 100.
+	- Added: 30/6/2021
+
+- [highorlow.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/highorlow.py) (School)
 	- Tells you if a number is above or below 100.
 	- Added: 30/6/2021
 
-- [enternameloop.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/enternameloop.py)
-	- First simple program in Python (for school)
+- [enternameloop.py](https://github.com/GD-NTB/the-bonk/blob/master/python/school/enternameloop.py) (School)
+	- Prints a name an amount of times.
 	- Added: 30/6/2021
 
 - [colours.py](https://github.com/GD-NTB/the-bonk/blob/master/python/colours.py)
