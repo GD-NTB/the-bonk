@@ -1,0 +1,11 @@
+Hello World:
+
+*
+
+Random Number Generator (0 -> 2^63 – 1)
+
+ * 
+
+Infinite Loop:
+
+*+*
