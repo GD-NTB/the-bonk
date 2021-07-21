@@ -3,6 +3,18 @@ the biggest dump of junk on the internet
 
 ## Python
 
+### July 2021
+- [asterisk](https://github.com/GD-NTB/the-bonk/blob/master/python/interpreters/asterisk/asterisk.py) (Interpreter)
+	- Another relatively simple interpreter for the weird-ass esoteric programming language Asterisk.
+	- Consists of a whole 3 commands. Wow!
+	- Examples of how code is built are located in the examples.txt, and output from the interpretation / compilation is located in output.txt.
+	- Added 22/7/2021
+
+- [small.py](https://github.com/GD-NTB/the-bonk/blob/master/python/interpreters/small/small.py) (Interpreter)
+	- A relatively simple interpreter and compiler for the Small esoteric programming language.
+	- Built traditionally from an accumulator and 250 bytes of memory.
+	- Examples of how code is built are located in the examples.txt, and output from the interpretation / compilation is located in output.txt.
+	- Added 22/7/2021
 
 ### June 2021
 - [morsecode.py](https://github.com/GD-NTB/the-bonk/blob/master/python/morsecode.py)
