@@ -4,7 +4,7 @@ the biggest dump of junk on the internet
 ## Python
 
 ### July 2021
-- [asterisk](https://github.com/GD-NTB/the-bonk/blob/master/python/interpreters/asterisk/asterisk.py) (Interpreter)
+- [asterisk.py](https://github.com/GD-NTB/the-bonk/blob/master/python/interpreters/asterisk/asterisk.py) (Interpreter)
 	- Another relatively simple interpreter for the weird-ass esoteric programming language Asterisk.
 	- Consists of a whole 3 commands. Wow!
 	- Examples of how code is built are located in the examples.txt, and output from the interpretation / compilation is located in output.txt.
