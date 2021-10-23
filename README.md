@@ -3,8 +3,21 @@ the biggest dump of junk on the internet
 
 ## Python
 
+### October 2021
+- [3.py](https://github.com/GD-NTB/the-bonk/blob/master/python/projecteuler/3.py) (Project Euler)
+    - The solution to the third problem on https://projecteuler.net/.
+    - Added: 23/10/2021
+    
+- [2.py](https://github.com/GD-NTB/the-bonk/blob/master/python/projecteuler/2.py) (Project Euler)
+    - The solution to the second problem on https://projecteuler.net/.
+    - Added: 23/10/2021
+    
+- [1.py](https://github.com/GD-NTB/the-bonk/blob/master/python/projecteuler/1.py) (Project Euler)
+    - The solution to the first problem on https://projecteuler.net/.
+    - Added: 23/10/2021
+
 ### July 2021
-- [asterisk](https://github.com/GD-NTB/the-bonk/blob/master/python/interpreters/asterisk/asterisk.py) (Interpreter)
+- [asterisk.py](https://github.com/GD-NTB/the-bonk/blob/master/python/interpreters/asterisk/asterisk.py) (Interpreter)
 	- Another relatively simple interpreter for the weird-ass esoteric programming language Asterisk.
 	- Consists of a whole 3 commands. Wow!
 	- Examples of how code is built are located in the examples.txt, and output from the interpretation / compilation is located in output.txt.
